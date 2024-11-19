@@ -1,8 +1,8 @@
 <h1> GCloud VM Creation Script </h1>
----
+
 
 <h4>This bash script connects to a Google Cloud project using a service account and creates a Virtual Machine (VM Instance) in the desired location with specified configurations.</h4>
----
+
 
 <h2>Pre-Requisites:</h2>
 
@@ -24,7 +24,7 @@ Before running the script, ensure the following are in place:
 
 <h4> 4)Bash Shell: </h4>
         The script is designed for Unix-like environments (Linux or macOS) with bash.
----
+
 
 <h2> Necessary Steps to Run the Script: </h2>
 
@@ -41,7 +41,7 @@ chmod +x script_name.sh
 <h4> 4)Run the Script: Execute the script using: </h4>
 
     ./script_name.sh
----
+
 
 <h2> Execution Flow: </h2>
 
@@ -65,7 +65,7 @@ chmod +x script_name.sh
 
 <h4> 6)Completion:  </h4>
         Once the VM is created, the script confirms success.
----
+
 
 <h2> Script Customization: </h2>
 
@@ -79,7 +79,7 @@ You can customize the following parameters directly in the script:
     key_location: The path where the key is stored in the system.
     image-project: The image project (default is debian-cloud).
     image-family: The image family (default is debian-11).
----
+
 
 <h2> Important Notes: </h2>
 

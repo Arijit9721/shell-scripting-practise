@@ -2,12 +2,12 @@
 set -euo pipefail
 
     # essential variables
-    	name="test-vm"
-	zone="us-central1-a"
-	machine="e2-micro"
-	project="inspired-photon-441609-k7"
-	email="vm-creater-account@inspired-photon-441609-k7.iam.gserviceaccount.com"
-	key_location="$HOME/service-key1.json"
+    	name="enter the vm name"
+	zone="enter the zone"
+	machine="enter the desired machine"
+	project="enter the project"
+	email="enter the email of the service account"
+	key_location="enter the location where the public/private key is stored in the system"
 	gcloud_location="./"
 
     # function for downloading and installing the gcloud CLI

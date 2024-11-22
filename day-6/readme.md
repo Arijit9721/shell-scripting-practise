@@ -22,10 +22,10 @@ Before running the script, ensure the following:
    ```
     Execute the script with the following command:
 
-    ./backup.sh <path-to-source-file> <path-to-backup-folder>
+        ./backup.sh <path-to-source-file> <path-to-backup-folder>
 
-        Replace <path-to-source-file> with the path of the file to back up.
-        Replace <path-to-backup-folder> with the folder where backups will be stored.
+   Replace <path-to-source-file> with the path of the file to back up.
+   Replace <path-to-backup-folder> with the folder where backups will be stored.
 
 <h2>📋 Execution Flow</h2>
 <h4>1️⃣ Input Validation</h4>

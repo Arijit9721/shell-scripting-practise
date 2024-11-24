@@ -10,7 +10,7 @@ This repository is dedicated to learning and practicing Shell (Bash) scripting t
 -   **`day5`**: Introduction to Makefiles and Docker commands.
 -   **`day6`**: File backup automation with rotation management.
 
-----------
+
 
 ## 🗓️ Daily Topics
 
@@ -53,7 +53,7 @@ This repository is dedicated to learning and practicing Shell (Bash) scripting t
     -   Maintains a **5-file rotation** for backup files.
     -   Deletes older backups beyond the rotation limit.
 
-----------
+
 
 ## 🔧 Prerequisites
 
